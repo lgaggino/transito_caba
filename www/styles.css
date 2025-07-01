@@ -1,0 +1,173 @@
+/* www/styles.css */
+
+/* — Importar fuentes desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
+
+/* — Variables CSS para paleta y tipografías */
+:root {
+  /* Tipografías */
+  --font-title: 'Playfair Display', serif;
+  --font-body:  'Work Sans', sans-serif;
+
+  /* Colores pastel */
+  --color-principal       : #A8E6CF;  /* Verde menta pastel */
+  --color-principal-light : #C9F2E1;  /* Verde menta claro para hover */
+  --color-principal-dark  : #7DC8AC;  /* Verde menta oscuro pastel */
+  --color-secundario1     : #5A6F4E;  /* Verde oscuro pastel */
+  --color-secundario2     : #FFAAA5;  /* Coral pastel */
+  --color-secundario3     : #F6EB98;  /* Amarillo pastel más definido y alegre */
+  --color-secundario4     : #B5EAEA;  /* Cielo pastel */
+  --color-secundario5     : #CBAACB;  /* Lavanda suave */
+  --color-secundario6     : #4E4E4E;  /* Gris oscuro neutro, elegante y atenuado */
+  --color-secundario7     : #FEFDF5;  /* Gris clarísimo con una pizca de amarillo, casi imperceptible */
+  --color-secundario8     : #F4F3D1;  /* Amarillo grisáceo claro */
+}
+
+body {
+  background-color: var(--color-secundario6);
+  color: var(--color-secundario7);  /* opcional: texto clarito para contraste */
+}
+
+/* — Tipografía global */
+body,
+.selectize-input,
+.navbar .navbar-nav > li > a {
+  font-family: var(--font-body);
+  font-size:   18px;
+}
+.title,
+h1, h2, h3, h4, h5,
+.navbar .navbar-brand {
+  font-family: var(--font-title);
+  color: var(--color-secundario7);
+}
+
+/* — Navbar principal */
+.navbar {
+  background-color: var(--color-principal) !important;
+  border-color:     var(--color-principal) !important;
+  border-radius:    8px;
+  margin:           1% auto;
+  padding:          1% !important;
+  max-width:        100%;
+}
+/* Alinear pestañas a la izquierda */
+.navbar .navbar-nav {
+  display:         flex;
+  justify-content: flex-start;
+  margin:          0;
+  float:           none;
+}
+
+/* — Marca (logo) */
+.navbar .navbar-brand {
+  font-size:   28px;
+  color:       #50535C !important;
+  display:     flex;
+  align-items: center;
+  justify-content: center;
+  height:      55px;
+}
+.navbar .navbar-brand:hover {
+  color:         #262a4eff !important;
+  text-decoration:none;
+}
+
+/* — Pestañas en navbar (texto y padding) */
+.navbar .nav > li > a {
+  margin:           10px 15px;
+  font-size:        20px !important;
+  color:            var(--color-secundario1) !important;
+  border-radius:    8px;
+  text-align:       left;
+  transition:       background-color .2s ease, color .2s ease;
+  padding:          8px 12px;
+}
+/* — Hover: texto verde oscuro, fondo claro */
+.navbar .nav > li > a:hover,
+.navbar .nav > li > a:focus {
+  background-color: var(--color-principal-dark) !important;
+  color:            var(--color-secundario8) !important;
+}
+/* — Activo: solo texto amarillo grisáceo */
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  background-color: transparent !important;
+  color:            var(--color-secundario3) !important;
+}
+
+/* — Pie de página (marca) */
+.marca {
+  border-top: 1px solid #50535C;
+  margin:     60px auto 0;
+  width:      90%;
+  max-width:  800px;
+}
+
+/* — Textos y bullets */
+.fuentes {
+  font-family: var(--font-body);
+  font-size:   16px;
+  color:       #50535C;
+  margin:      15px 50px;
+}
+.paragraph {
+  font-family: var(--font-body);
+  font-size:   16px;
+  color:       var(--color-secundario7);
+  margin:      15px 30px;
+  text-align:  justify;
+}
+.bullet {
+  font-family: var(--font-body);
+  font-size:   16px;
+  color:       #50535C;
+  margin:      15px 0;
+}
+
+/* — Botón descarga */
+.descarga {
+  margin-bottom: 12px;
+  width:         20px;
+  position:      relative;
+  left:          80%;
+}
+
+/* — Pestañas internas (.custom_tabpanel) */
+.custom_tabpanel .nav-tabs > li > a {
+  border-radius:    8px;
+  font-size:        16px !important;
+  color:            var(--color-secundario1);
+  background-color: var(--color-secundario5);
+  transition:       background-color .2s ease, color .2s ease;
+  padding:          6px 10px;
+  text-align:       left;
+}
+.custom_tabpanel .nav-tabs > li > a:hover,
+.custom_tabpanel .nav-tabs > li > a:focus {
+  background-color: var(--color-secundario1);
+  color:            var(--color-secundario1);
+}
+.custom_tabpanel .nav-tabs .active > a,
+.custom_tabpanel .nav-tabs .active > a:hover,
+.custom_tabpanel .nav-tabs .active > a:focus {
+  background-color: transparent;
+  color:            var(--color-secundario3);
+}
+
+/* — Ocultar caret de Selectize */
+.selectize-input {
+  caret-color: transparent !important;
+}
+
+/* — Responsive */
+@media (max-width: 991.98px) {
+  .navbar .navbar-brand { font-size: 24px; height: 50px; }
+  .navbar .nav > li > a { font-size: 18px; padding: 6px 8px; }
+}
+@media (max-width: 767.98px) {
+  .navbar .navbar-brand { font-size: 20px; height: 45px; }
+  .navbar .nav > li > a { font-size: 16px; padding: 4px 6px; }
+}

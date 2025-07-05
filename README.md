@@ -31,7 +31,7 @@
 ## 1. EDA de datos crudos (`raw/`)
 
 **Script:** `scripts/0_eda_raw.R`  
-Descarga los datos desde [aquí]([https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-de-peaje-ausa]) y realiza:
+Descarga los datos desde https://data.buenosaires.gob.ar/dataset/flujo-vehicular-por-unidades-de-peaje-ausa y realiza:
 
 - Inventario de archivos por año (anuales, mensuales, bimestrales), conteo y tamaño total.
 - Listado de columnas únicas y años de aparición.

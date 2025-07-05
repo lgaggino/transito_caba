@@ -1,0 +1,434 @@
+﻿"año","estacion","pago","conteo"
+"10","Alberti","Discapacidad",6331
+"10","Alberti","Efectivo",21391
+"10","Alberti","Exento",12842
+"10","Alberti","Infracción",866
+"10","Alberti","No Cobrado",6747
+"10","Alberti","Otros",5939
+"10","Alberti","Telepase",13584
+"10","Dellepiane","Discapacidad",12674
+"10","Dellepiane","Efectivo",60781
+"10","Dellepiane","Exento",19007
+"10","Dellepiane","Infracción",10978
+"10","Dellepiane","No Cobrado",18376
+"10","Dellepiane","Otros",9321
+"10","Dellepiane","Telepase",52094
+"10","Illia","Discapacidad",8623
+"10","Illia","Efectivo",58141
+"10","Illia","Exento",23712
+"10","Illia","Infracción",2512
+"10","Illia","No Cobrado",13724
+"10","Illia","Otros",12674
+"10","Illia","Telepase",43997
+"10","Parque Avellaneda","Discapacidad",12955
+"10","Parque Avellaneda","Efectivo",64798
+"10","Parque Avellaneda","Exento",21093
+"10","Parque Avellaneda","Infracción",13785
+"10","Parque Avellaneda","No Cobrado",22537
+"10","Parque Avellaneda","Otros",11804
+"10","Parque Avellaneda","Telepase",57380
+"11","Alberti","Discapacidad",7815
+"11","Alberti","Efectivo",27998
+"11","Alberti","Exento",18132
+"11","Alberti","Infracción",1052
+"11","Alberti","No Cobrado",8133
+"11","Alberti","Otros",7398
+"11","Alberti","Telepase",17132
+"11","Dellepiane","Discapacidad",12706
+"11","Dellepiane","Efectivo",61779
+"11","Dellepiane","Exento",22255
+"11","Dellepiane","Infracción",16135
+"11","Dellepiane","No Cobrado",18765
+"11","Dellepiane","Otros",8280
+"11","Dellepiane","Telepase",53157
+"11","Illia","Discapacidad",9145
+"11","Illia","Efectivo",58308
+"11","Illia","Exento",25921
+"11","Illia","Infracción",3269
+"11","Illia","No Cobrado",14142
+"11","Illia","Otros",12659
+"11","Illia","Telepase",45930
+"11","Parque Avellaneda","Discapacidad",13267
+"11","Parque Avellaneda","Efectivo",66926
+"11","Parque Avellaneda","Exento",23148
+"11","Parque Avellaneda","Infracción",18894
+"11","Parque Avellaneda","No Cobrado",23042
+"11","Parque Avellaneda","Otros",13500
+"11","Parque Avellaneda","Telepase",59158
+"12","Alberti","Discapacidad",7843
+"12","Alberti","Efectivo",27460
+"12","Alberti","Exento",18956
+"12","Alberti","Infracción",1852
+"12","Alberti","No Cobrado",7548
+"12","Alberti","Otros",4839
+"12","Alberti","Telepase",16386
+"12","Dellepiane","Discapacidad",14923
+"12","Dellepiane","Efectivo",64661
+"12","Dellepiane","Exento",26086
+"12","Dellepiane","Infracción",24713
+"12","Dellepiane","No Cobrado",17132
+"12","Dellepiane","Otros",6160
+"12","Dellepiane","Telepase",56482
+"12","Illia","Discapacidad",10582
+"12","Illia","Efectivo",57622
+"12","Illia","Exento",21142
+"12","Illia","Infracción",5820
+"12","Illia","No Cobrado",14349
+"12","Illia","Otros",10793
+"12","Illia","Telepase",48014
+"12","Parque Avellaneda","Discapacidad",17819
+"12","Parque Avellaneda","Efectivo",72370
+"12","Parque Avellaneda","Exento",28762
+"12","Parque Avellaneda","Infracción",24649
+"12","Parque Avellaneda","No Cobrado",22952
+"12","Parque Avellaneda","Otros",13227
+"12","Parque Avellaneda","Telepase",64615
+"13","Alberti","Discapacidad",8938
+"13","Alberti","Efectivo",27615
+"13","Alberti","Exento",20257
+"13","Alberti","Infracción",3001
+"13","Alberti","No Cobrado",9151
+"13","Alberti","Otros",1522
+"13","Alberti","Telepase",19860
+"13","Dellepiane","Discapacidad",15399
+"13","Dellepiane","Efectivo",60991
+"13","Dellepiane","Exento",22929
+"13","Dellepiane","Infracción",29644
+"13","Dellepiane","No Cobrado",17156
+"13","Dellepiane","Otros",2955
+"13","Dellepiane","Telepase",53581
+"13","Illia","Discapacidad",14493
+"13","Illia","Efectivo",60637
+"13","Illia","Exento",27159
+"13","Illia","Infracción",8377
+"13","Illia","No Cobrado",18524
+"13","Illia","Otros",6846
+"13","Illia","Telepase",51216
+"13","Parque Avellaneda","Discapacidad",18199
+"13","Parque Avellaneda","Efectivo",66039
+"13","Parque Avellaneda","Exento",26151
+"13","Parque Avellaneda","Infracción",28758
+"13","Parque Avellaneda","No Cobrado",20350
+"13","Parque Avellaneda","Otros",7866
+"13","Parque Avellaneda","Telepase",58787
+"14","Alberti","Discapacidad",11346
+"14","Alberti","Efectivo",27185
+"14","Alberti","Exento",21494
+"14","Alberti","Infracción",3946
+"14","Alberti","No Cobrado",8926
+"14","Alberti","Otros",1920
+"14","Alberti","Telepase",16410
+"14","Dellepiane","Discapacidad",14654
+"14","Dellepiane","Efectivo",60546
+"14","Dellepiane","Exento",23167
+"14","Dellepiane","Infracción",26930
+"14","Dellepiane","No Cobrado",17337
+"14","Dellepiane","Otros",5131
+"14","Dellepiane","Telepase",52696
+"14","Illia","Discapacidad",20182
+"14","Illia","Efectivo",96578
+"14","Illia","Exento",38724
+"14","Illia","Infracción",19730
+"14","Illia","No Cobrado",25472
+"14","Illia","Otros",9840
+"14","Illia","Telepase",80964
+"14","Parque Avellaneda","Discapacidad",17905
+"14","Parque Avellaneda","Efectivo",65576
+"14","Parque Avellaneda","Exento",27601
+"14","Parque Avellaneda","Infracción",28838
+"14","Parque Avellaneda","No Cobrado",21232
+"14","Parque Avellaneda","Otros",8020
+"14","Parque Avellaneda","Telepase",57024
+"15","Alberti","Discapacidad",9047
+"15","Alberti","Efectivo",26386
+"15","Alberti","Exento",19590
+"15","Alberti","Infracción",4877
+"15","Alberti","No Cobrado",9169
+"15","Alberti","Otros",2097
+"15","Alberti","Telepase",16764
+"15","Dellepiane","Discapacidad",23856
+"15","Dellepiane","Efectivo",101915
+"15","Dellepiane","Exento",39363
+"15","Dellepiane","Infracción",45756
+"15","Dellepiane","No Cobrado",25123
+"15","Dellepiane","Otros",4178
+"15","Dellepiane","Telepase",92386
+"15","Illia","Discapacidad",18806
+"15","Illia","Efectivo",120234
+"15","Illia","Exento",38659
+"15","Illia","Infracción",29440
+"15","Illia","No Cobrado",32616
+"15","Illia","Otros",9634
+"15","Illia","Telepase",120310
+"15","Parque Avellaneda","Discapacidad",17238
+"15","Parque Avellaneda","Efectivo",65674
+"15","Parque Avellaneda","Exento",28665
+"15","Parque Avellaneda","Infracción",30088
+"15","Parque Avellaneda","No Cobrado",20712
+"15","Parque Avellaneda","Otros",10089
+"15","Parque Avellaneda","Telepase",55286
+"16","Alberti","Discapacidad",16823
+"16","Alberti","Efectivo",45978
+"16","Alberti","Exento",34223
+"16","Alberti","Infracción",9200
+"16","Alberti","No Cobrado",14699
+"16","Alberti","Otros",1061
+"16","Alberti","Telepase",30279
+"16","Dellepiane","Discapacidad",25992
+"16","Dellepiane","Efectivo",117006
+"16","Dellepiane","Exento",39374
+"16","Dellepiane","Infracción",48434
+"16","Dellepiane","No Cobrado",24045
+"16","Dellepiane","Otros",9
+"16","Dellepiane","Telepase",99733
+"16","Illia","Discapacidad",28077
+"16","Illia","Efectivo",162796
+"16","Illia","Exento",51282
+"16","Illia","Infracción",35781
+"16","Illia","No Cobrado",42380
+"16","Illia","Otros",6610
+"16","Illia","Telepase",153498
+"16","Parque Avellaneda","Discapacidad",30442
+"16","Parque Avellaneda","Efectivo",127600
+"16","Parque Avellaneda","Exento",43813
+"16","Parque Avellaneda","Infracción",47223
+"16","Parque Avellaneda","No Cobrado",32154
+"16","Parque Avellaneda","Otros",6825
+"16","Parque Avellaneda","Telepase",104106
+"17","Alberti","Discapacidad",16326
+"17","Alberti","Efectivo",45635
+"17","Alberti","Exento",33771
+"17","Alberti","Infracción",9084
+"17","Alberti","No Cobrado",14640
+"17","Alberti","Telepase",31127
+"17","Dellepiane","Discapacidad",26539
+"17","Dellepiane","Efectivo",116175
+"17","Dellepiane","Exento",40300
+"17","Dellepiane","Infracción",49343
+"17","Dellepiane","No Cobrado",23075
+"17","Dellepiane","Telepase",101692
+"17","Illia","Discapacidad",27305
+"17","Illia","Efectivo",157907
+"17","Illia","Exento",51103
+"17","Illia","Infracción",32382
+"17","Illia","No Cobrado",46442
+"17","Illia","Otros",22
+"17","Illia","Telepase",157935
+"17","Parque Avellaneda","Discapacidad",29936
+"17","Parque Avellaneda","Efectivo",127486
+"17","Parque Avellaneda","Exento",44715
+"17","Parque Avellaneda","Infracción",49466
+"17","Parque Avellaneda","No Cobrado",33573
+"17","Parque Avellaneda","Telepase",106666
+"18","Alberti","Discapacidad",14981
+"18","Alberti","Efectivo",44882
+"18","Alberti","Exento",31153
+"18","Alberti","Infracción",12015
+"18","Alberti","No Cobrado",15668
+"18","Alberti","Telepase",34338
+"18","Dellepiane","Discapacidad",23192
+"18","Dellepiane","Efectivo",108970
+"18","Dellepiane","Exento",40988
+"18","Dellepiane","Infracción",50693
+"18","Dellepiane","No Cobrado",24629
+"18","Dellepiane","Telepase",104969
+"18","Illia","Discapacidad",22608
+"18","Illia","Efectivo",147736
+"18","Illia","Exento",45876
+"18","Illia","Infracción",37144
+"18","Illia","No Cobrado",46934
+"18","Illia","Telepase",174761
+"18","Parque Avellaneda","Discapacidad",25567
+"18","Parque Avellaneda","Efectivo",122045
+"18","Parque Avellaneda","Exento",44086
+"18","Parque Avellaneda","Infracción",53479
+"18","Parque Avellaneda","No Cobrado",34209
+"18","Parque Avellaneda","Telepase",114985
+"19","Alberti","Discapacidad",14306
+"19","Alberti","Efectivo",29213
+"19","Alberti","Exento",28830
+"19","Alberti","Infracción",15701
+"19","Alberti","No Cobrado",13008
+"19","Alberti","Telepase",31221
+"19","Dellepiane","Discapacidad",20412
+"19","Dellepiane","Efectivo",34820
+"19","Dellepiane","Exento",34034
+"19","Dellepiane","Infracción",32485
+"19","Dellepiane","No Cobrado",30967
+"19","Dellepiane","Telepase",34882
+"19","Illia","Discapacidad",19924
+"19","Illia","Efectivo",50541
+"19","Illia","Exento",35312
+"19","Illia","Infracción",30907
+"19","Illia","No Cobrado",48232
+"19","Illia","Telepase",79951
+"19","Parque Avellaneda","Discapacidad",21359
+"19","Parque Avellaneda","Efectivo",34766
+"19","Parque Avellaneda","Exento",34540
+"19","Parque Avellaneda","Infracción",32335
+"19","Parque Avellaneda","No Cobrado",28562
+"19","Parque Avellaneda","Telepase",34881
+"19","Paseo del Bajo","No Cobrado",20511
+"19","Paseo del Bajo","Telepase",20453
+"20","Alberti","Billeteras virtuales",1389
+"20","Alberti","Efectivo",29876
+"20","Alberti","Exento",33859
+"20","Alberti","Infracción",24313
+"20","Alberti","Otros",26963
+"20","Alberti","Telepase",78323
+"20","Dellepiane","Billeteras virtuales",2906
+"20","Dellepiane","Efectivo",78939
+"20","Dellepiane","Exento",39355
+"20","Dellepiane","Infracción",45401
+"20","Dellepiane","Otros",84866
+"20","Dellepiane","Telepase",256391
+"20","Illia","Billeteras virtuales",3101
+"20","Illia","Efectivo",68690
+"20","Illia","Exento",31559
+"20","Illia","Infracción",157010
+"20","Illia","Otros",50836
+"20","Illia","Telepase",473923
+"20","Parque Avellaneda","Billeteras virtuales",2976
+"20","Parque Avellaneda","Efectivo",86578
+"20","Parque Avellaneda","Exento",44945
+"20","Parque Avellaneda","Infracción",54032
+"20","Parque Avellaneda","Otros",92597
+"20","Parque Avellaneda","Telepase",270623
+"20","Paseo del Bajo","Billeteras virtuales",291
+"20","Paseo del Bajo","Infracción",143535
+"20","Paseo del Bajo","Telepase",350466
+"21","Alberti","Billeteras virtuales",37498
+"21","Alberti","Efectivo",29521
+"21","Alberti","Exento",21760
+"21","Alberti","Infracción",31541
+"21","Alberti","Otros",28051
+"21","Alberti","Telepase",84981
+"21","Dellepiane","Billeteras virtuales",81950
+"21","Dellepiane","Efectivo",79122
+"21","Dellepiane","Exento",41607
+"21","Dellepiane","Infracción",48088
+"21","Dellepiane","Otros",130319
+"21","Dellepiane","Telepase",276227
+"21","Illia","Billeteras virtuales",112135
+"21","Illia","Efectivo",53859
+"21","Illia","Exento",23601
+"21","Illia","Infracción",173125
+"21","Illia","Otros",62510
+"21","Illia","Telepase",480144
+"21","Parque Avellaneda","Billeteras virtuales",82171
+"21","Parque Avellaneda","Efectivo",87021
+"21","Parque Avellaneda","Exento",48374
+"21","Parque Avellaneda","Infracción",57175
+"21","Parque Avellaneda","Otros",138092
+"21","Parque Avellaneda","Telepase",273446
+"21","Paseo del Bajo","Billeteras virtuales",44721
+"21","Paseo del Bajo","Infracción",160577
+"21","Paseo del Bajo","Telepase",341738
+"22","Alberti","Billeteras virtuales",32737
+"22","Alberti","Efectivo",12551
+"22","Alberti","Exento",8734
+"22","Alberti","Infracción",25306
+"22","Alberti","Otros",13807
+"22","Alberti","Telepase",60567
+"22","Dellepiane","Billeteras virtuales",78465
+"22","Dellepiane","Efectivo",69884
+"22","Dellepiane","Exento",28902
+"22","Dellepiane","Infracción",34021
+"22","Dellepiane","Otros",98606
+"22","Dellepiane","Telepase",194122
+"22","Illia","Billeteras virtuales",135177
+"22","Illia","Efectivo",46992
+"22","Illia","Exento",15112
+"22","Illia","Infracción",131735
+"22","Illia","Otros",48239
+"22","Illia","Telepase",343768
+"22","Parque Avellaneda","Billeteras virtuales",76113
+"22","Parque Avellaneda","Efectivo",75880
+"22","Parque Avellaneda","Exento",33912
+"22","Parque Avellaneda","Infracción",36847
+"22","Parque Avellaneda","Otros",105101
+"22","Parque Avellaneda","Telepase",194797
+"22","Paseo del Bajo","Billeteras virtuales",65540
+"22","Paseo del Bajo","Infracción",110040
+"22","Paseo del Bajo","Telepase",253220
+"23","Alberti","Billeteras virtuales",31496
+"23","Alberti","Infracción",36216
+"23","Alberti","Telepase",55449
+"23","Dellepiane","Billeteras virtuales",101954
+"23","Dellepiane","Efectivo",65148
+"23","Dellepiane","Exento",46888
+"23","Dellepiane","Infracción",40843
+"23","Dellepiane","Otros",45949
+"23","Dellepiane","Telepase",210816
+"23","Illia","Billeteras virtuales",154987
+"23","Illia","Efectivo",11473
+"23","Illia","Exento",4402
+"23","Illia","Infracción",148298
+"23","Illia","Otros",13985
+"23","Illia","Telepase",311958
+"23","Parque Avellaneda","Billeteras virtuales",105113
+"23","Parque Avellaneda","Efectivo",76003
+"23","Parque Avellaneda","Exento",49050
+"23","Parque Avellaneda","Infracción",48017
+"23","Parque Avellaneda","Otros",105837
+"23","Parque Avellaneda","Telepase",224606
+"23","Paseo del Bajo","Billeteras virtuales",101410
+"23","Paseo del Bajo","Infracción",140244
+"23","Paseo del Bajo","Telepase",295851
+"24","Alberti","Billeteras virtuales",51436
+"24","Alberti","Infracción",51060
+"24","Alberti","Telepase",100508
+"24","Dellepiane","Billeteras virtuales",121758
+"24","Dellepiane","Efectivo",66796
+"24","Dellepiane","Exento",71886
+"24","Dellepiane","Infracción",88407
+"24","Dellepiane","Otros",69842
+"24","Dellepiane","Telepase",257694
+"24","Illia","Billeteras virtuales",171450
+"24","Illia","Infracción",154689
+"24","Illia","Telepase",354737
+"24","Parque Avellaneda","Billeteras virtuales",129587
+"24","Parque Avellaneda","Efectivo",73755
+"24","Parque Avellaneda","Exento",76440
+"24","Parque Avellaneda","Infracción",68029
+"24","Parque Avellaneda","Otros",75030
+"24","Parque Avellaneda","Telepase",308887
+"24","Paseo del Bajo","Billeteras virtuales",161383
+"24","Paseo del Bajo","Infracción",181452
+"24","Paseo del Bajo","Telepase",465663
+"8","Alberti","Efectivo",17566
+"8","Alberti","Telepase",17566
+"8","Dellepiane","Efectivo",17568
+"8","Dellepiane","Telepase",17568
+"8","Illia","Efectivo",17556
+"8","Illia","Telepase",17556
+"8","Parque Avellaneda","Efectivo",17568
+"8","Parque Avellaneda","Telepase",17568
+"9","Alberti","Discapacidad",4515
+"9","Alberti","Efectivo",15993
+"9","Alberti","Exento",9285
+"9","Alberti","Infracción",942
+"9","Alberti","No Cobrado",5110
+"9","Alberti","Otros",4290
+"9","Alberti","Telepase",9856
+"9","Dellepiane","Discapacidad",11431
+"9","Dellepiane","Efectivo",51824
+"9","Dellepiane","Exento",15290
+"9","Dellepiane","Infracción",11171
+"9","Dellepiane","No Cobrado",16078
+"9","Dellepiane","Otros",8699
+"9","Dellepiane","Telepase",42568
+"9","Illia","Discapacidad",9775
+"9","Illia","Efectivo",48887
+"9","Illia","Exento",19831
+"9","Illia","Infracción",3184
+"9","Illia","No Cobrado",12106
+"9","Illia","Otros",13809
+"9","Illia","Telepase",31268
+"9","Parque Avellaneda","Discapacidad",12638
+"9","Parque Avellaneda","Efectivo",60070
+"9","Parque Avellaneda","Exento",19433
+"9","Parque Avellaneda","Infracción",14713
+"9","Parque Avellaneda","No Cobrado",20635
+"9","Parque Avellaneda","Otros",12952
+"9","Parque Avellaneda","Telepase",50418

@@ -1,0 +1,505 @@
+﻿"mes","dia","categoria","conteo"
+"Abril","Domingo","Auto",92575
+"Abril","Domingo","Auto con trailer",2748
+"Abril","Domingo","Moto",11183
+"Abril","Domingo","Otros",10051
+"Abril","Domingo","Pesado",111380
+"Abril","Jueves","Auto",100077
+"Abril","Jueves","Auto con trailer",5207
+"Abril","Jueves","Moto",16522
+"Abril","Jueves","Otros",12131
+"Abril","Jueves","Pesado",155801
+"Abril","Lunes","Auto",101057
+"Abril","Lunes","Auto con trailer",4758
+"Abril","Lunes","Moto",15814
+"Abril","Lunes","Otros",11042
+"Abril","Lunes","Pesado",155053
+"Abril","Martes","Auto",100458
+"Abril","Martes","Auto con trailer",5271
+"Abril","Martes","Moto",16610
+"Abril","Martes","Otros",11225
+"Abril","Martes","Pesado",156555
+"Abril","Miércoles","Auto",99941
+"Abril","Miércoles","Auto con trailer",4992
+"Abril","Miércoles","Moto",16223
+"Abril","Miércoles","Otros",11617
+"Abril","Miércoles","Pesado",156749
+"Abril","Sábado","Auto",98499
+"Abril","Sábado","Auto con trailer",3612
+"Abril","Sábado","Moto",13845
+"Abril","Sábado","Otros",11224
+"Abril","Sábado","Pesado",127809
+"Abril","Viernes","Auto",102882
+"Abril","Viernes","Auto con trailer",4998
+"Abril","Viernes","Moto",16737
+"Abril","Viernes","Otros",11742
+"Abril","Viernes","Pesado",153645
+"Agosto","Domingo","Auto",96778
+"Agosto","Domingo","Auto con trailer",2915
+"Agosto","Domingo","Moto",13241
+"Agosto","Domingo","Otros",9812
+"Agosto","Domingo","Pesado",117189
+"Agosto","Jueves","Auto",108876
+"Agosto","Jueves","Auto con trailer",6178
+"Agosto","Jueves","Moto",19313
+"Agosto","Jueves","Otros",10412
+"Agosto","Jueves","Pesado",173883
+"Agosto","Lunes","Auto",107421
+"Agosto","Lunes","Auto con trailer",5484
+"Agosto","Lunes","Moto",18528
+"Agosto","Lunes","Otros",10960
+"Agosto","Lunes","Pesado",165530
+"Agosto","Martes","Auto",109149
+"Agosto","Martes","Auto con trailer",6072
+"Agosto","Martes","Moto",19982
+"Agosto","Martes","Otros",10972
+"Agosto","Martes","Pesado",175472
+"Agosto","Miércoles","Auto",109520
+"Agosto","Miércoles","Auto con trailer",5928
+"Agosto","Miércoles","Moto",19216
+"Agosto","Miércoles","Otros",10508
+"Agosto","Miércoles","Pesado",174236
+"Agosto","Sábado","Auto",101750
+"Agosto","Sábado","Auto con trailer",3944
+"Agosto","Sábado","Moto",15015
+"Agosto","Sábado","Otros",10250
+"Agosto","Sábado","Pesado",133708
+"Agosto","Viernes","Auto",107364
+"Agosto","Viernes","Auto con trailer",6078
+"Agosto","Viernes","Moto",18627
+"Agosto","Viernes","Otros",10221
+"Agosto","Viernes","Pesado",166762
+"Diciembre","Domingo","Auto",105624
+"Diciembre","Domingo","Auto con trailer",3853
+"Diciembre","Domingo","Moto",15249
+"Diciembre","Domingo","Otros",11078
+"Diciembre","Domingo","Pesado",128946
+"Diciembre","Jueves","Auto",116690
+"Diciembre","Jueves","Auto con trailer",7335
+"Diciembre","Jueves","Moto",21704
+"Diciembre","Jueves","Otros",12794
+"Diciembre","Jueves","Pesado",180965
+"Diciembre","Lunes","Auto",110942
+"Diciembre","Lunes","Auto con trailer",6536
+"Diciembre","Lunes","Moto",20240
+"Diciembre","Lunes","Otros",11422
+"Diciembre","Lunes","Pesado",168908
+"Diciembre","Martes","Auto",109595
+"Diciembre","Martes","Auto con trailer",6516
+"Diciembre","Martes","Moto",19721
+"Diciembre","Martes","Otros",11341
+"Diciembre","Martes","Pesado",166945
+"Diciembre","Miércoles","Auto",114003
+"Diciembre","Miércoles","Auto con trailer",6812
+"Diciembre","Miércoles","Moto",20897
+"Diciembre","Miércoles","Otros",11987
+"Diciembre","Miércoles","Pesado",176500
+"Diciembre","Sábado","Auto",108249
+"Diciembre","Sábado","Auto con trailer",4835
+"Diciembre","Sábado","Moto",17349
+"Diciembre","Sábado","Otros",11496
+"Diciembre","Sábado","Pesado",140860
+"Diciembre","Viernes","Auto",115297
+"Diciembre","Viernes","Auto con trailer",7136
+"Diciembre","Viernes","Moto",21373
+"Diciembre","Viernes","Otros",12538
+"Diciembre","Viernes","Pesado",172885
+"Enero","Domingo","Auto",89886
+"Enero","Domingo","Auto con trailer",2370
+"Enero","Domingo","Moto",10356
+"Enero","Domingo","Otros",8009
+"Enero","Domingo","Pesado",107404
+"Enero","Jueves","Auto",96493
+"Enero","Jueves","Auto con trailer",3766
+"Enero","Jueves","Moto",14258
+"Enero","Jueves","Otros",8497
+"Enero","Jueves","Pesado",145711
+"Enero","Lunes","Auto",97588
+"Enero","Lunes","Auto con trailer",3706
+"Enero","Lunes","Moto",14714
+"Enero","Lunes","Otros",8610
+"Enero","Lunes","Pesado",147278
+"Enero","Martes","Auto",96286
+"Enero","Martes","Auto con trailer",3797
+"Enero","Martes","Moto",14160
+"Enero","Martes","Otros",8205
+"Enero","Martes","Pesado",147265
+"Enero","Miércoles","Auto",97273
+"Enero","Miércoles","Auto con trailer",3841
+"Enero","Miércoles","Moto",14702
+"Enero","Miércoles","Otros",8647
+"Enero","Miércoles","Pesado",147280
+"Enero","Sábado","Auto",91996
+"Enero","Sábado","Auto con trailer",2683
+"Enero","Sábado","Moto",11394
+"Enero","Sábado","Otros",8223
+"Enero","Sábado","Pesado",116742
+"Enero","Viernes","Auto",99455
+"Enero","Viernes","Auto con trailer",3855
+"Enero","Viernes","Moto",14886
+"Enero","Viernes","Otros",8939
+"Enero","Viernes","Pesado",146999
+"Febrero","Domingo","Auto",82729
+"Febrero","Domingo","Auto con trailer",2632
+"Febrero","Domingo","Moto",9951
+"Febrero","Domingo","Otros",7415
+"Febrero","Domingo","Pesado",97690
+"Febrero","Jueves","Auto",92531
+"Febrero","Jueves","Auto con trailer",4864
+"Febrero","Jueves","Moto",15164
+"Febrero","Jueves","Otros",8726
+"Febrero","Jueves","Pesado",144644
+"Febrero","Lunes","Auto",89403
+"Febrero","Lunes","Auto con trailer",3676
+"Febrero","Lunes","Moto",12201
+"Febrero","Lunes","Otros",7789
+"Febrero","Lunes","Pesado",129925
+"Febrero","Martes","Auto",88041
+"Febrero","Martes","Auto con trailer",3970
+"Febrero","Martes","Moto",12981
+"Febrero","Martes","Otros",7954
+"Febrero","Martes","Pesado",131328
+"Febrero","Miércoles","Auto",90932
+"Febrero","Miércoles","Auto con trailer",4355
+"Febrero","Miércoles","Moto",14023
+"Febrero","Miércoles","Otros",8250
+"Febrero","Miércoles","Pesado",138969
+"Febrero","Sábado","Auto",88628
+"Febrero","Sábado","Auto con trailer",3313
+"Febrero","Sábado","Moto",11741
+"Febrero","Sábado","Otros",8224
+"Febrero","Sábado","Pesado",114858
+"Febrero","Viernes","Auto",91592
+"Febrero","Viernes","Auto con trailer",4464
+"Febrero","Viernes","Moto",14076
+"Febrero","Viernes","Otros",8471
+"Febrero","Viernes","Pesado",138995
+"Julio","Domingo","Auto",98509
+"Julio","Domingo","Auto con trailer",3036
+"Julio","Domingo","Moto",13284
+"Julio","Domingo","Otros",10135
+"Julio","Domingo","Pesado",120684
+"Julio","Jueves","Auto",105771
+"Julio","Jueves","Auto con trailer",5295
+"Julio","Jueves","Moto",17947
+"Julio","Jueves","Otros",11180
+"Julio","Jueves","Pesado",164762
+"Julio","Lunes","Auto",106812
+"Julio","Lunes","Auto con trailer",5447
+"Julio","Lunes","Moto",18603
+"Julio","Lunes","Otros",10758
+"Julio","Lunes","Pesado",166062
+"Julio","Martes","Auto",104859
+"Julio","Martes","Auto con trailer",5158
+"Julio","Martes","Moto",17302
+"Julio","Martes","Otros",10413
+"Julio","Martes","Pesado",162605
+"Julio","Miércoles","Auto",106544
+"Julio","Miércoles","Auto con trailer",5352
+"Julio","Miércoles","Moto",17853
+"Julio","Miércoles","Otros",10959
+"Julio","Miércoles","Pesado",167055
+"Julio","Sábado","Auto",103337
+"Julio","Sábado","Auto con trailer",4015
+"Julio","Sábado","Moto",15668
+"Julio","Sábado","Otros",11178
+"Julio","Sábado","Pesado",134448
+"Julio","Viernes","Auto",108979
+"Julio","Viernes","Auto con trailer",5305
+"Julio","Viernes","Moto",18217
+"Julio","Viernes","Otros",11435
+"Julio","Viernes","Pesado",165617
+"Junio","Domingo","Auto",91393
+"Junio","Domingo","Auto con trailer",2596
+"Junio","Domingo","Moto",12111
+"Junio","Domingo","Otros",9345
+"Junio","Domingo","Pesado",107929
+"Junio","Jueves","Auto",106926
+"Junio","Jueves","Auto con trailer",5746
+"Junio","Jueves","Moto",19229
+"Junio","Jueves","Otros",11837
+"Junio","Jueves","Pesado",167991
+"Junio","Lunes","Auto",98206
+"Junio","Lunes","Auto con trailer",4424
+"Junio","Lunes","Moto",16005
+"Junio","Lunes","Otros",10713
+"Junio","Lunes","Pesado",148078
+"Junio","Martes","Auto",103223
+"Junio","Martes","Auto con trailer",5195
+"Junio","Martes","Moto",17859
+"Junio","Martes","Otros",11646
+"Junio","Martes","Pesado",161581
+"Junio","Miércoles","Auto",105263
+"Junio","Miércoles","Auto con trailer",5562
+"Junio","Miércoles","Moto",18669
+"Junio","Miércoles","Otros",11621
+"Junio","Miércoles","Pesado",165399
+"Junio","Sábado","Auto",97401
+"Junio","Sábado","Auto con trailer",3628
+"Junio","Sábado","Moto",14375
+"Junio","Sábado","Otros",9979
+"Junio","Sábado","Pesado",125648
+"Junio","Viernes","Auto",104721
+"Junio","Viernes","Auto con trailer",5203
+"Junio","Viernes","Moto",17721
+"Junio","Viernes","Otros",11280
+"Junio","Viernes","Pesado",159851
+"Marzo","Domingo","Auto",89376
+"Marzo","Domingo","Auto con trailer",2566
+"Marzo","Domingo","Moto",10708
+"Marzo","Domingo","Otros",8234
+"Marzo","Domingo","Pesado",105366
+"Marzo","Jueves","Auto",98539
+"Marzo","Jueves","Auto con trailer",3834
+"Marzo","Jueves","Moto",14157
+"Marzo","Jueves","Otros",8818
+"Marzo","Jueves","Pesado",147765
+"Marzo","Lunes","Auto",95557
+"Marzo","Lunes","Auto con trailer",3804
+"Marzo","Lunes","Moto",14310
+"Marzo","Lunes","Otros",9226
+"Marzo","Lunes","Pesado",143341
+"Marzo","Martes","Auto",100203
+"Marzo","Martes","Auto con trailer",3988
+"Marzo","Martes","Moto",14747
+"Marzo","Martes","Otros",9772
+"Marzo","Martes","Pesado",149740
+"Marzo","Miércoles","Auto",98737
+"Marzo","Miércoles","Auto con trailer",4021
+"Marzo","Miércoles","Moto",14332
+"Marzo","Miércoles","Otros",9260
+"Marzo","Miércoles","Pesado",149307
+"Marzo","Sábado","Auto",90405
+"Marzo","Sábado","Auto con trailer",2852
+"Marzo","Sábado","Moto",11101
+"Marzo","Sábado","Otros",8041
+"Marzo","Sábado","Pesado",115557
+"Marzo","Viernes","Auto",97313
+"Marzo","Viernes","Auto con trailer",3940
+"Marzo","Viernes","Moto",14199
+"Marzo","Viernes","Otros",8799
+"Marzo","Viernes","Pesado",143217
+"Mayo","Domingo","Auto",95351
+"Mayo","Domingo","Auto con trailer",2733
+"Mayo","Domingo","Moto",12250
+"Mayo","Domingo","Otros",11332
+"Mayo","Domingo","Pesado",114965
+"Mayo","Jueves","Auto",102623
+"Mayo","Jueves","Auto con trailer",5060
+"Mayo","Jueves","Moto",17124
+"Mayo","Jueves","Otros",11638
+"Mayo","Jueves","Pesado",158744
+"Mayo","Lunes","Auto",104346
+"Mayo","Lunes","Auto con trailer",5085
+"Mayo","Lunes","Moto",17698
+"Mayo","Lunes","Otros",12404
+"Mayo","Lunes","Pesado",160947
+"Mayo","Martes","Auto",105604
+"Mayo","Martes","Auto con trailer",5295
+"Mayo","Martes","Moto",18019
+"Mayo","Martes","Otros",12304
+"Mayo","Martes","Pesado",164558
+"Mayo","Miércoles","Auto",103821
+"Mayo","Miércoles","Auto con trailer",5137
+"Mayo","Miércoles","Moto",17740
+"Mayo","Miércoles","Otros",12096
+"Mayo","Miércoles","Pesado",160522
+"Mayo","Sábado","Auto",95467
+"Mayo","Sábado","Auto con trailer",3270
+"Mayo","Sábado","Moto",13480
+"Mayo","Sábado","Otros",11339
+"Mayo","Sábado","Pesado",124241
+"Mayo","Viernes","Auto",103636
+"Mayo","Viernes","Auto con trailer",5143
+"Mayo","Viernes","Moto",17530
+"Mayo","Viernes","Otros",12296
+"Mayo","Viernes","Pesado",157989
+"Noviembre","Domingo","Auto",90096
+"Noviembre","Domingo","Auto con trailer",2830
+"Noviembre","Domingo","Moto",11649
+"Noviembre","Domingo","Otros",8373
+"Noviembre","Domingo","Pesado",108699
+"Noviembre","Jueves","Auto",99341
+"Noviembre","Jueves","Auto con trailer",5708
+"Noviembre","Jueves","Moto",16487
+"Noviembre","Jueves","Otros",9173
+"Noviembre","Jueves","Pesado",156219
+"Noviembre","Lunes","Auto",97628
+"Noviembre","Lunes","Auto con trailer",4868
+"Noviembre","Lunes","Moto",15771
+"Noviembre","Lunes","Otros",9471
+"Noviembre","Lunes","Pesado",147750
+"Noviembre","Martes","Auto",97671
+"Noviembre","Martes","Auto con trailer",5448
+"Noviembre","Martes","Moto",16242
+"Noviembre","Martes","Otros",9186
+"Noviembre","Martes","Pesado",152779
+"Noviembre","Miércoles","Auto",98500
+"Noviembre","Miércoles","Auto con trailer",5713
+"Noviembre","Miércoles","Moto",16379
+"Noviembre","Miércoles","Otros",9134
+"Noviembre","Miércoles","Pesado",154387
+"Noviembre","Sábado","Auto",94339
+"Noviembre","Sábado","Auto con trailer",3934
+"Noviembre","Sábado","Moto",14191
+"Noviembre","Sábado","Otros",8954
+"Noviembre","Sábado","Pesado",124056
+"Noviembre","Viernes","Auto",101166
+"Noviembre","Viernes","Auto con trailer",5768
+"Noviembre","Viernes","Moto",17087
+"Noviembre","Viernes","Otros",9459
+"Noviembre","Viernes","Pesado",154907
+"Octubre","Domingo","Auto",90120
+"Octubre","Domingo","Auto con trailer",2913
+"Octubre","Domingo","Moto",12039
+"Octubre","Domingo","Otros",8123
+"Octubre","Domingo","Pesado",109207
+"Octubre","Jueves","Auto",100644
+"Octubre","Jueves","Auto con trailer",5915
+"Octubre","Jueves","Moto",17254
+"Octubre","Jueves","Otros",9396
+"Octubre","Jueves","Pesado",160198
+"Octubre","Lunes","Auto",96177
+"Octubre","Lunes","Auto con trailer",4927
+"Octubre","Lunes","Moto",14938
+"Octubre","Lunes","Otros",8398
+"Octubre","Lunes","Pesado",147103
+"Octubre","Martes","Auto",100397
+"Octubre","Martes","Auto con trailer",5782
+"Octubre","Martes","Moto",17273
+"Octubre","Martes","Otros",9058
+"Octubre","Martes","Pesado",159809
+"Octubre","Miércoles","Auto",98229
+"Octubre","Miércoles","Auto con trailer",5452
+"Octubre","Miércoles","Moto",16328
+"Octubre","Miércoles","Otros",8743
+"Octubre","Miércoles","Pesado",154333
+"Octubre","Sábado","Auto",94748
+"Octubre","Sábado","Auto con trailer",3516
+"Octubre","Sábado","Moto",13740
+"Octubre","Sábado","Otros",8795
+"Octubre","Sábado","Pesado",124891
+"Octubre","Viernes","Auto",100120
+"Octubre","Viernes","Auto con trailer",5281
+"Octubre","Viernes","Moto",16445
+"Octubre","Viernes","Otros",9448
+"Octubre","Viernes","Pesado",153453
+"Septiembre","Domingo","Auto",105245
+"Septiembre","Domingo","Auto con trailer",3796
+"Septiembre","Domingo","Moto",15893
+"Septiembre","Domingo","Otros",11194
+"Septiembre","Domingo","Pesado",132868
+"Septiembre","Jueves","Auto",119817
+"Septiembre","Jueves","Auto con trailer",7559
+"Septiembre","Jueves","Moto",23299
+"Septiembre","Jueves","Otros",13512
+"Septiembre","Jueves","Pesado",197012
+"Septiembre","Lunes","Auto",112774
+"Septiembre","Lunes","Auto con trailer",6845
+"Septiembre","Lunes","Moto",21763
+"Septiembre","Lunes","Otros",11908
+"Septiembre","Lunes","Pesado",182217
+"Septiembre","Martes","Auto",111437
+"Septiembre","Martes","Auto con trailer",6611
+"Septiembre","Martes","Moto",21420
+"Septiembre","Martes","Otros",12200
+"Septiembre","Martes","Pesado",182886
+"Septiembre","Miércoles","Auto",118346
+"Septiembre","Miércoles","Auto con trailer",7327
+"Septiembre","Miércoles","Moto",22821
+"Septiembre","Miércoles","Otros",13234
+"Septiembre","Miércoles","Pesado",194292
+"Septiembre","Sábado","Auto",108411
+"Septiembre","Sábado","Auto con trailer",4898
+"Septiembre","Sábado","Moto",18232
+"Septiembre","Sábado","Otros",11596
+"Septiembre","Sábado","Pesado",145823
+"Septiembre","Viernes","Auto",118915
+"Septiembre","Viernes","Auto con trailer",7688
+"Septiembre","Viernes","Moto",23375
+"Septiembre","Viernes","Otros",13030
+"Septiembre","Viernes","Pesado",191008
+"Abril","Domingo","Total",227937
+"Abril","Jueves","Total",289738
+"Abril","Lunes","Total",287724
+"Abril","Martes","Total",290119
+"Abril","Miércoles","Total",289522
+"Abril","Sábado","Total",254989
+"Abril","Viernes","Total",290004
+"Agosto","Domingo","Total",239935
+"Agosto","Jueves","Total",318662
+"Agosto","Lunes","Total",307923
+"Agosto","Martes","Total",321647
+"Agosto","Miércoles","Total",319408
+"Agosto","Sábado","Total",264667
+"Agosto","Viernes","Total",309052
+"Diciembre","Domingo","Total",264750
+"Diciembre","Jueves","Total",339488
+"Diciembre","Lunes","Total",318048
+"Diciembre","Martes","Total",314118
+"Diciembre","Miércoles","Total",330199
+"Diciembre","Sábado","Total",282789
+"Diciembre","Viernes","Total",329229
+"Enero","Domingo","Total",218025
+"Enero","Jueves","Total",268725
+"Enero","Lunes","Total",271896
+"Enero","Martes","Total",269713
+"Enero","Miércoles","Total",271743
+"Enero","Sábado","Total",231038
+"Enero","Viernes","Total",274134
+"Febrero","Domingo","Total",200417
+"Febrero","Jueves","Total",265929
+"Febrero","Lunes","Total",242994
+"Febrero","Martes","Total",244274
+"Febrero","Miércoles","Total",256529
+"Febrero","Sábado","Total",226764
+"Febrero","Viernes","Total",257598
+"Julio","Domingo","Total",245648
+"Julio","Jueves","Total",304955
+"Julio","Lunes","Total",307682
+"Julio","Martes","Total",300337
+"Julio","Miércoles","Total",307763
+"Julio","Sábado","Total",268646
+"Julio","Viernes","Total",309553
+"Junio","Domingo","Total",223374
+"Junio","Jueves","Total",311729
+"Junio","Lunes","Total",277426
+"Junio","Martes","Total",299504
+"Junio","Miércoles","Total",306514
+"Junio","Sábado","Total",251031
+"Junio","Viernes","Total",298776
+"Marzo","Domingo","Total",216250
+"Marzo","Jueves","Total",273113
+"Marzo","Lunes","Total",266238
+"Marzo","Martes","Total",278450
+"Marzo","Miércoles","Total",275657
+"Marzo","Sábado","Total",227956
+"Marzo","Viernes","Total",267468
+"Mayo","Domingo","Total",236631
+"Mayo","Jueves","Total",295189
+"Mayo","Lunes","Total",300480
+"Mayo","Martes","Total",305780
+"Mayo","Miércoles","Total",299316
+"Mayo","Sábado","Total",247797
+"Mayo","Viernes","Total",296594
+"Noviembre","Domingo","Total",221647
+"Noviembre","Jueves","Total",286928
+"Noviembre","Lunes","Total",275488
+"Noviembre","Martes","Total",281326
+"Noviembre","Miércoles","Total",284113
+"Noviembre","Sábado","Total",245474
+"Noviembre","Viernes","Total",288387
+"Octubre","Domingo","Total",222402
+"Octubre","Jueves","Total",293407
+"Octubre","Lunes","Total",271543
+"Octubre","Martes","Total",292319
+"Octubre","Miércoles","Total",283085
+"Octubre","Sábado","Total",245690
+"Octubre","Viernes","Total",284747
+"Septiembre","Domingo","Total",268996
+"Septiembre","Jueves","Total",361199
+"Septiembre","Lunes","Total",335507
+"Septiembre","Martes","Total",334554
+"Septiembre","Miércoles","Total",356020
+"Septiembre","Sábado","Total",288960
+"Septiembre","Viernes","Total",354016

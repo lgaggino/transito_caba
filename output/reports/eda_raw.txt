@@ -1,0 +1,362 @@
+============================================================ 
+EDA - 2025-07-05 11:35:20 
+Root dir : C:/Users/Lionel/Desktop/Desarrollos/R/transito_caba 
+Raw dir  : C:/Users/Lionel/Desktop/Desarrollos/R/transito_caba/raw 
+Rep dir  : C:/Users/Lionel/Desktop/Desarrollos/R/transito_caba/output/reports 
+============================================================ 
+### Inventario ### 
+Total archivos : 49 — 1669.76 MB 
+14: anual 
+1: bimestre 
+34: mensual 
+### Archivos por año ### 
+2023: 12 archivos 
+2024: 12 archivos 
+2022: 11 archivos 
+2008: 1 archivos 
+2009: 1 archivos 
+2010: 1 archivos 
+2011: 1 archivos 
+2012: 1 archivos 
+2013: 1 archivos 
+2014: 1 archivos 
+2015: 1 archivos 
+2016: 1 archivos 
+2017: 1 archivos 
+2018: 1 archivos 
+2019: 1 archivos 
+2020: 1 archivos 
+2021: 1 archivos 
+ 
+### Columnas únicas y años de aparición ### 
+a_a_a_mes_da_a_a_aa_a_o_de_fecha_operativa: 2022, 2023, 2024 
+aa_a_o_de_fecha_operativa: 2021, 2022 
+cantidad_pasos: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 
+cat_cobrada: 2021, 2022, 2023, 2024 
+da_a_a_de_fecha_operativa: 2021 
+dia: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 
+dia_fecha: 2020 
+estacion: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 
+fecha: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 
+forma_pago: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 
+hora: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015 
+hora_fin: 2008, 2016, 2017, 2018, 2019, 2020 
+hora_hh: 2021, 2022, 2023, 2024 
+hora_inicio: 2016, 2017, 2018, 2019, 2020 
+id_peaje: 2021, 2022, 2023, 2024 
+mes: 2020 
+mes_da_a_aa_o_de_fecha_operativa: 2024 
+mes_de_fecha_operativa: 2021 
+observacion: 2020, 2021, 2022, 2023, 2024 
+pasos: 2021, 2022, 2023, 2024 
+periodo: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 
+sentido: 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 
+tipo_cobro: 2021, 2022, 2023, 2024 
+tipo_vehiculo: 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020 
+x: 2022, 2023 
+ 
+### Estadísticas por archivo ### 
+Archivo: flujo-vehicular-2008.csv 
+  Filas    : 140516 
+  Columnas : 9 
+  Tipos    : PERIODO(integer), FECHA(character), DIA(character), HORA(character), HORA_FIN(character), ESTACION(character), TIPO_VEHICULO(character), FORMA_PAGO(character), CANTIDAD_PASOS(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2009.csv 
+  Filas    : 536771 
+  Columnas : 8 
+  Tipos    : periodo(integer), fecha(IDate), hora(integer), dia(character), estacion(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2010.csv 
+  Filas    : 618667 
+  Columnas : 8 
+  Tipos    : periodo(integer), fecha(IDate), hora(integer), dia(character), estacion(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2011.csv 
+  Filas    : 668046 
+  Columnas : 8 
+  Tipos    : periodo(integer), fecha(IDate), hora(integer), dia(character), estacion(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2012.csv 
+  Filas    : 707757 
+  Columnas : 8 
+  Tipos    : periodo(integer), fecha(IDate), hora(integer), dia(character), estacion(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2013.csv 
+  Filas    : 706401 
+  Columnas : 8 
+  Tipos    : periodo(integer), fecha(IDate), hora(integer), dia(character), estacion(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2014.csv 
+  Filas    : 809376 
+  Columnas : 8 
+  Tipos    : periodo(numeric), fecha(IDate), hora(numeric), dia(character), estacion(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(numeric) 
+Faltantes: periodo=2, fecha=2, hora=2, cantidad_pasos=1 
+Archivo: flujo-vehicular-2015.csv 
+  Filas    : 1017958 
+  Columnas : 8 
+  Tipos    : periodo(integer), fecha(IDate), hora(integer), dia(character), estacion(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2016.csv 
+  Filas    : 1379443 
+  Columnas : 10 
+  Tipos    : periodo(integer), fecha(IDate), hora_inicio(integer), hora_fin(integer), dia(character), estacion(character), sentido(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2017.csv 
+  Filas    : 1372645 
+  Columnas : 10 
+  Tipos    : periodo(integer), fecha(IDate), hora_inicio(integer), hora_fin(integer), dia(character), estacion(character), sentido(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2018.csv 
+  Filas    : 1375908 
+  Columnas : 10 
+  Tipos    : periodo(integer), fecha(IDate), hora_inicio(integer), hora_fin(integer), dia(character), estacion(character), sentido(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2019.csv 
+  Filas    : 812153 
+  Columnas : 10 
+  Tipos    : periodo(integer), fecha(IDate), hora_inicio(integer), hora_fin(integer), dia(character), estacion(character), sentido(character), tipo_vehiculo(character), forma_pago(character), cantidad_pasos(integer) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2020.csv 
+  Filas    : 2533743 
+  Columnas : 13 
+  Tipos    : periodo(numeric), fecha(POSIXct), mes(character), dia(character), dia_fecha(numeric), hora_inicio(numeric), hora_fin(numeric), estacion(character), tipo_vehiculo(character), forma_pago(character), observacion(character), sentido(character), cantidad_pasos(numeric) 
+Faltantes: ninguno 
+Archivo: flujo-vehicular-2021.csv 
+  Filas    : 3029367 
+  Columnas : 10 
+  Tipos    : AÃ±o de Fecha Operativa(character), Cat Cobrada(character), DÃ­a de Fecha Operativa(character), Hora HH(character), ID Peaje(character), Mes de Fecha Operativa(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Abril 2022.csv 
+  Filas    : 263187 
+  Columnas : 8 
+  Tipos    : AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Abril 2023.csv 
+  Filas    : 280414 
+  Columnas : 10 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character), V9(logical), V10(logical) 
+Faltantes: V9=280414, V10=280414 
+Archivo: Transito Abril 2024.csv 
+  Filas    : 279640 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Agosto 2022.csv 
+  Filas    : 266903 
+  Columnas : 8 
+  Tipos    : AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Agosto 2023.csv 
+  Filas    : 279788 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Agosto 2024.csv 
+  Filas    : 279639 
+  Columnas : 9 
+  Tipos    : Mes, Día, Año de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric), V9(logical) 
+Faltantes: Hora HH=28569, Pasos=28569, V9=279639 
+Archivo: Transito Diciembre 2022.csv 
+  Filas    : 269350 
+  Columnas : 10 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character), V9(logical), V10(logical) 
+Faltantes: V9=269350, V10=269350 
+Archivo: Transito Diciembre 2023.csv 
+  Filas    : 279644 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Diciembre 2024.csv 
+  Filas    : 312478 
+  Columnas : 9 
+  Tipos    : Mes, Día, Año de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric), V9(logical) 
+Faltantes: V9=312478 
+Archivo: Transito Enero-Febrero 2022.csv 
+  Filas    : 476196 
+  Columnas : 8 
+  Tipos    : AÃ±o de Fecha Operativa(IDate), Cat Cobrada(character), Hora HH(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(integer) 
+Faltantes: ninguno 
+Archivo: Transito Enero 2023.csv 
+  Filas    : 272501 
+  Columnas : 10 
+  Tipos    : V1(character), V2(character), V3(character), V4(character), V5(character), V6(character), V7(character), V8(character), V9(logical), V10(logical) 
+Faltantes: V9=272501, V10=272501 
+Archivo: Transito Enero 2024.csv 
+  Filas    : 279643 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Febrero 2023.csv 
+  Filas    : 272499 
+  Columnas : 10 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character), V9(logical), V10(logical) 
+Faltantes: V9=272499, V10=272499 
+Archivo: Transito Febrero 2024.csv 
+  Filas    : 279642 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Julio 2022.csv 
+  Filas    : 264210 
+  Columnas : 8 
+  Tipos    : AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Julio 2023.csv 
+  Filas    : 279750 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: Hora HH=44898 
+Archivo: Transito Julio 2024.csv 
+  Filas    : 279639 
+  Columnas : 9 
+  Tipos    : Mes, Día, Año de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric), V9(logical) 
+Faltantes: Pasos=39126, V9=279639 
+Archivo: Transito Junio 2022.csv 
+  Filas    : 258789 
+  Columnas : 8 
+  Tipos    : AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Junio 2023.csv 
+  Filas    : 279788 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric) 
+Faltantes: Hora HH=40162, Pasos=40162 
+Archivo: Transito Junio 2024.csv 
+  Filas    : 279639 
+  Columnas : 9 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric), V9(logical) 
+Faltantes: Pasos=53366, V9=279639 
+Archivo: Transito Marzo 2022.csv 
+  Filas    : 263188 
+  Columnas : 8 
+  Tipos    : AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric) 
+Faltantes: ninguno 
+Archivo: Transito Marzo 2023.csv 
+  Filas    : 280416 
+  Columnas : 10 
+  Tipos    : V1(character), V2(character), V3(character), V4(character), V5(character), V6(character), V7(character), V8(character), V9(logical), V10(logical) 
+Faltantes: V9=280416, V10=280416 
+Archivo: Transito Marzo 2024.csv 
+  Filas    : 279641 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Mayo 2022.csv 
+  Filas    : 258792 
+  Columnas : 8 
+  Tipos    : AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Mayo 2023.csv 
+  Filas    : 279793 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric) 
+Faltantes: Hora HH=24778, Pasos=24777 
+Archivo: Transito Mayo 2024.csv 
+  Filas    : 279639 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Noviembre 2022.csv 
+  Filas    : 269352 
+  Columnas : 10 
+  Tipos    : V1(character), V2(character), V3(character), V4(character), V5(character), V6(character), V7(character), V8(character), V9(logical), V10(logical) 
+Faltantes: V9=269352, V10=269352 
+Archivo: Transito Noviembre 2023.csv 
+  Filas    : 279645 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: Hora HH=30929 
+Archivo: Transito Noviembre 2024.csv 
+  Filas    : 305513 
+  Columnas : 9 
+  Tipos    : Mes, Día, Año de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric), V9(logical) 
+Faltantes: V9=305513 
+Archivo: Transito Octubre 2022.csv 
+  Filas    : 268060 
+  Columnas : 10 
+  Tipos    : V1(character), V2(character), V3(character), V4(character), V5(character), V6(character), V7(character), V8(character), V9(logical), V10(logical) 
+Faltantes: V9=268060, V10=268060 
+Archivo: Transito Octubre 2023.csv 
+  Filas    : 279643 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric) 
+Faltantes: Pasos=28238 
+Archivo: Transito Octubre 2024.csv 
+  Filas    : 288326 
+  Columnas : 9 
+  Tipos    : Mes, Día, Año de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric), V9(logical) 
+Faltantes: V9=288326 
+Archivo: Transito Septiembre 2022.csv 
+  Filas    : 266902 
+  Columnas : 8 
+  Tipos    : AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Septiembre 2023.csv 
+  Filas    : 279659 
+  Columnas : 8 
+  Tipos    : Mes, DÃ­a, AÃ±o de Fecha Operativa(character), Hora HH(character), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(character) 
+Faltantes: ninguno 
+Archivo: Transito Septiembre 2024.csv 
+  Filas    : 279639 
+  Columnas : 9 
+  Tipos    : Mes, Día, Año de Fecha Operativa(character), Hora HH(integer), Cat Cobrada(character), ID Peaje(character), Observacion(character), Sentido(character), Tipo Cobro(character), Pasos(numeric), V9(logical) 
+Faltantes: Hora HH=12069, Pasos=12069, V9=279639 
+### Tipos inconsistentes entre archivos ### 
+  AÃ±o de Fecha Operativa: clases character/IDate 
+  Hora HH: clases character/integer 
+  Pasos: clases character/integer/numeric 
+  cantidad_pasos: clases integer/numeric 
+  fecha: clases IDate/POSIXct 
+  hora: clases integer/numeric 
+  hora_fin: clases integer/numeric 
+  hora_inicio: clases integer/numeric 
+  periodo: clases integer/numeric 
+ 
+### Resumen global de valores faltantes (en %) ### 
+  V10: 100% NA (sobre 1912592 valores), 100% archivos con NA 
+  V9: 100% NA (sobre 3937465 valores), 100% archivos con NA 
+  Pasos: 1.91% NA (sobre 226307 valores), 21.88% archivos con NA 
+  Hora HH: 1.53% NA (sobre 181405 valores), 18.75% archivos con NA 
+  AÃ±o de Fecha Operativa: 0% NA (sobre 0 valores), 0% archivos con NA 
+  CANTIDAD_PASOS: 0% NA (sobre 0 valores), 0% archivos con NA 
+  Cat Cobrada: 0% NA (sobre 0 valores), 0% archivos con NA 
+  DIA: 0% NA (sobre 0 valores), 0% archivos con NA 
+  DÃ­a de Fecha Operativa: 0% NA (sobre 0 valores), 0% archivos con NA 
+  ESTACION: 0% NA (sobre 0 valores), 0% archivos con NA 
+  FECHA: 0% NA (sobre 0 valores), 0% archivos con NA 
+  FORMA_PAGO: 0% NA (sobre 0 valores), 0% archivos con NA 
+  HORA: 0% NA (sobre 0 valores), 0% archivos con NA 
+  HORA_FIN: 0% NA (sobre 0 valores), 0% archivos con NA 
+  ID Peaje: 0% NA (sobre 0 valores), 0% archivos con NA 
+  Mes de Fecha Operativa: 0% NA (sobre 0 valores), 0% archivos con NA 
+  Mes, DÃ­a, AÃ±o de Fecha Operativa: 0% NA (sobre 0 valores), 0% archivos con NA 
+  Mes, Día, Año de Fecha Operativa: 0% NA (sobre 0 valores), 0% archivos con NA 
+  Observacion: 0% NA (sobre 0 valores), 0% archivos con NA 
+  PERIODO: 0% NA (sobre 0 valores), 0% archivos con NA 
+  Sentido: 0% NA (sobre 0 valores), 0% archivos con NA 
+  TIPO_VEHICULO: 0% NA (sobre 0 valores), 0% archivos con NA 
+  Tipo Cobro: 0% NA (sobre 0 valores), 0% archivos con NA 
+  V1: 0% NA (sobre 0 valores), 0% archivos con NA 
+  V2: 0% NA (sobre 0 valores), 0% archivos con NA 
+  V3: 0% NA (sobre 0 valores), 0% archivos con NA 
+  V4: 0% NA (sobre 0 valores), 0% archivos con NA 
+  V5: 0% NA (sobre 0 valores), 0% archivos con NA 
+  V6: 0% NA (sobre 0 valores), 0% archivos con NA 
+  V7: 0% NA (sobre 0 valores), 0% archivos con NA 
+  V8: 0% NA (sobre 0 valores), 0% archivos con NA 
+  cantidad_pasos: 0% NA (sobre 1 valores), 8.33% archivos con NA 
+  dia: 0% NA (sobre 0 valores), 0% archivos con NA 
+  dia_fecha: 0% NA (sobre 0 valores), 0% archivos con NA 
+  estacion: 0% NA (sobre 0 valores), 0% archivos con NA 
+  fecha: 0% NA (sobre 2 valores), 8.33% archivos con NA 
+  forma_pago: 0% NA (sobre 0 valores), 0% archivos con NA 
+  hora: 0% NA (sobre 2 valores), 14.29% archivos con NA 
+  hora_fin: 0% NA (sobre 0 valores), 0% archivos con NA 
+  hora_inicio: 0% NA (sobre 0 valores), 0% archivos con NA 
+  mes: 0% NA (sobre 0 valores), 0% archivos con NA 
+  observacion: 0% NA (sobre 0 valores), 0% archivos con NA 
+  periodo: 0% NA (sobre 2 valores), 8.33% archivos con NA 
+  sentido: 0% NA (sobre 0 valores), 0% archivos con NA 
+  tipo_vehiculo: 0% NA (sobre 0 valores), 0% archivos con NA 
+ 
+=== Fin del reporte EDA – 2025-07-05 11:35:31 === 

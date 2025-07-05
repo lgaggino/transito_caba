@@ -1,6 +1,4 @@
-/* www/styles.css */
-
-/* — Importar fuentes desde Google Fonts */
+/* — Importa fuentes desde Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&display=swap');
 
@@ -10,23 +8,24 @@
   --font-title: 'Playfair Display', serif;
   --font-body:  'Work Sans', sans-serif;
 
-  /* Colores pastel */
-  --color-principal       : #A8E6CF;  /* Verde menta pastel */
-  --color-principal-light : #C9F2E1;  /* Verde menta claro para hover */
-  --color-principal-dark  : #7DC8AC;  /* Verde menta oscuro pastel */
-  --color-secundario1     : #5A6F4E;  /* Verde oscuro pastel */
-  --color-secundario2     : #FFAAA5;  /* Coral pastel */
-  --color-secundario3     : #F6EB98;  /* Amarillo pastel más definido y alegre */
-  --color-secundario4     : #B5EAEA;  /* Cielo pastel */
-  --color-secundario5     : #CBAACB;  /* Lavanda suave */
-  --color-secundario6     : #4E4E4E;  /* Gris oscuro neutro, elegante y atenuado */
-  --color-secundario7     : #FEFDF5;  /* Gris clarísimo con una pizca de amarillo, casi imperceptible */
-  --color-secundario8     : #F4F3D1;  /* Amarillo grisáceo claro */
+  /* Colores */
+  --color-principal       : #8FCFBA;  
+  --color-principal-light : #C9F2E1; 
+  --color-principal-dark  : #66B598;  
+  --color-secundario1     : #5A6F4E;  
+  --color-secundario2     : #FFAAA5z
+  --color-secundario3     : #F6EB98;
+  --color-secundario4     : #B5EAEA;  
+  --color-secundario5     : #CBAACB; 
+  --color-secundario6     : #3A3A3A; 
+  --color-secundario7     : #FEFDF5;
+  --color-secundario8     : #F4F3D1;
+  --color-secundario9     : #FFE0DC; 
 }
 
 body {
   background-color: var(--color-secundario6);
-  color: var(--color-secundario7);  /* opcional: texto clarito para contraste */
+  color: var(--color-secundario7);
 }
 
 /* — Tipografía global */
@@ -41,6 +40,7 @@ h1, h2, h3, h4, h5,
 .navbar .navbar-brand {
   font-family: var(--font-title);
   color: var(--color-secundario7);
+  font-size:   32px;
 }
 
 /* — Navbar principal */
@@ -52,15 +52,12 @@ h1, h2, h3, h4, h5,
   padding:          1% !important;
   max-width:        100%;
 }
-/* Alinear pestañas a la izquierda */
 .navbar .navbar-nav {
   display:         flex;
   justify-content: flex-start;
   margin:          0;
   float:           none;
 }
-
-/* — Marca (logo) */
 .navbar .navbar-brand {
   font-size:   28px;
   color:       #50535C !important;
@@ -73,24 +70,20 @@ h1, h2, h3, h4, h5,
   color:         #262a4eff !important;
   text-decoration:none;
 }
-
-/* — Pestañas en navbar (texto y padding) */
 .navbar .nav > li > a {
   margin:           10px 15px;
   font-size:        20px !important;
-  color:            var(--color-secundario1) !important;
+  color:            var(--color-secundario6) !important;
   border-radius:    8px;
   text-align:       left;
   transition:       background-color .2s ease, color .2s ease;
   padding:          8px 12px;
 }
-/* — Hover: texto verde oscuro, fondo claro */
 .navbar .nav > li > a:hover,
 .navbar .nav > li > a:focus {
   background-color: var(--color-principal-dark) !important;
   color:            var(--color-secundario8) !important;
 }
-/* — Activo: solo texto amarillo grisáceo */
 .navbar .nav > .active > a,
 .navbar .nav > .active > a:hover,
 .navbar .nav > .active > a:focus {
@@ -98,68 +91,172 @@ h1, h2, h3, h4, h5,
   color:            var(--color-secundario3) !important;
 }
 
-/* — Pie de página (marca) */
-.marca {
-  border-top: 1px solid #50535C;
-  margin:     60px auto 0;
-  width:      90%;
-  max-width:  800px;
+/* — Encabezados de box */
+.box-header {
+  margin-bottom: 0.75em !important;
 }
 
-/* — Textos y bullets */
-.fuentes {
-  font-family: var(--font-body);
-  font-size:   16px;
-  color:       #50535C;
-  margin:      15px 50px;
-}
+/* — Párrafos de introducción */
 .paragraph {
   font-family: var(--font-body);
-  font-size:   16px;
+  font-size:   18px;
   color:       var(--color-secundario7);
   margin:      15px 30px;
   text-align:  justify;
 }
-.bullet {
-  font-family: var(--font-body);
-  font-size:   16px;
-  color:       #50535C;
-  margin:      15px 0;
+
+/* — CheckboxGroupInput */
+.box[title="Hora Pico"] .controles-inline {
+  margin: 2rem 0 !important;
+}
+.controles-inline {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.controles-inline .shiny-input-container {
+  margin: 0;
+}
+.controles-inline .checkbox-inline {
+  margin-right: 1.5em;
+  display: inline-flex;
+  align-items: center;
+  color: var(--color-secundario7);
+  font-weight: 500;
+}
+.controles-inline .checkbox-inline:first-of-type {
+  margin-left: 2em !important;
+}
+.controles-inline .checkbox-inline input[type="checkbox"] {
+  width: 1.2em;
+  height: 1.2em;
+  border-radius: 50%;
+  appearance: none;      
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: var(--color-secundario6);
+  border: 2px solid var(--color-principal) !important;
+  position: relative;
+  margin-right: 0.5em; 
+  cursor: pointer;
+  transition: background-color .2s, border-color .2s;
+}
+.controles-inline .checkbox-inline input[type="checkbox"]:focus {
+  outline: none;
+  box-shadow: none;
+}
+.controles-inline .checkbox-inline input[type="checkbox"]::after {
+  display: none !important;
+}
+.controles-inline .checkbox-inline input[type="checkbox"]:checked {
+  background-color: var(--color-principal) !important;
+  border: 2px solid var(--color-principal) !important;
+}
+.controles-inline {
+  margin-top: 3.39rem !important;
+  margin-bottom: 1.6rem !important;
 }
 
-/* — Botón descarga */
-.descarga {
-  margin-bottom: 12px;
-  width:         20px;
-  position:      relative;
-  left:          80%;
-}
-
-/* — Pestañas internas (.custom_tabpanel) */
-.custom_tabpanel .nav-tabs > li > a {
-  border-radius:    8px;
-  font-size:        16px !important;
-  color:            var(--color-secundario1);
-  background-color: var(--color-secundario5);
-  transition:       background-color .2s ease, color .2s ease;
-  padding:          6px 10px;
-  text-align:       left;
-}
-.custom_tabpanel .nav-tabs > li > a:hover,
-.custom_tabpanel .nav-tabs > li > a:focus {
-  background-color: var(--color-secundario1);
-  color:            var(--color-secundario1);
-}
-.custom_tabpanel .nav-tabs .active > a,
-.custom_tabpanel .nav-tabs .active > a:hover,
-.custom_tabpanel .nav-tabs .active > a:focus {
-  background-color: transparent;
-  color:            var(--color-secundario3);
-}
-
-/* — Ocultar caret de Selectize */
+/* — Selectize (selectInput) */
 .selectize-input {
   caret-color: transparent !important;
+}
+.selectize-input {
+  border: 2px solid var(--color-principal) !important;
+  border-radius: 8px !important;                      
+  background-color: transparent !important;     
+  color: var(--color-principal) !important;       
+  box-shadow: none !important;                         
+}
+.selectize-input.items.not-full {
+  background-color: transparent !important;             
+}
+.selectize-dropdown {
+  border: 2px solid var(--color-principal) !important;
+  border-radius: 8px !important;
+  background-color: var(--color-secundario7) !important; 
+}
+.selectize-dropdown-content .option {
+  color: var(--color-secundario6) !important;           
+}
+.selectize-dropdown-content .option.selected {
+  background-color: var(--color-principal) !important; 
+  color: var(--color-secundario6) !important;
+}
+
+/* — SliderInput */
+.irs--shiny {
+  --irs-bar-color: var(--color-principal);
+  --irs-bar-edge-color: var(--color-principal);
+}
+.irs--shiny .irs-line,
+.irs--shiny .irs-line-left,
+.irs--shiny .irs-line-mid,
+.irs--shiny .irs-line-right,
+.irs--shiny .irs-bar,
+.irs--shiny .irs-bar-edge {
+  background-color: var(--color-principal);
+  border: none;
+}
+.irs--shiny .irs-handle {
+  background-color: var(--color-principal);
+  border: none;
+}
+.irs--shiny .irs-handle:hover,
+.irs--shiny .irs-handle:active {
+  background-color: var(--color-principal);
+}
+.irs--shiny .irs-from,
+.irs--shiny .irs-to {
+  background-color: transparent !important;
+  color:            var(--color-principal) !important;
+  border:           none !important;
+}
+.irs--shiny {
+  --irs-bar-color:      var(--color-principal) !important;
+  --irs-bar-edge-color: var(--color-principal) !important;
+}
+.irs--shiny .irs-line,
+.irs--shiny .irs-line-left,
+.irs--shiny .irs-line-mid,
+.irs--shiny .irs-line-right,
+.irs--shiny .irs-bar,
+.irs--shiny .irs-bar-edge {
+  background-color: var(--color-principal) !important;
+  border: none !important;
+}
+.irs--shiny .irs-handle,
+.irs--shiny .irs-handle:hover,
+.irs--shiny .irs-handle:active {
+  background-color: var(--color-principal-light) !important;
+  border: none !important;
+}
+.irs--shiny .irs-from,
+.irs--shiny .irs-to {
+  background-color: transparent !important;
+  color:            var(--color-principal) !important;
+  border:           none !important;
+  text-shadow:      none !important;
+}
+.irs--shiny .irs-single {
+  background-color: transparent !important;   
+  color:            var(--color-principal) !important; 
+  border:           none !important;     
+  text-shadow:      none !important;         
+  font-weight:      600;                       
+}
+.irs--shiny .irs-bar,
+.irs--shiny .irs-bar-edge {
+  border-radius: 8px;
+}
+.irs--shiny .irs-handle {
+  border-radius: 50%;   
+}
+.shiny-input-container input:focus,
+.shiny-input-container select:focus,
+.selectize-input.focus {
+  color: rgba(143, 207, 186, 0.5) !important;
 }
 
 /* — Responsive */
@@ -171,3 +268,7 @@ h1, h2, h3, h4, h5,
   .navbar .navbar-brand { font-size: 20px; height: 45px; }
   .navbar .nav > li > a { font-size: 16px; padding: 4px 6px; }
 }
+
+/* ────────────────────────────────────────────────────────────────────────── */
+/* ────────────────────────────────────────────────────────────────────────── */
+/* ────────────────────────────────────────────────────────────────────────── */

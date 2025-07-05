@@ -2,6 +2,9 @@
 # Consolida archivos de tránsito en Peajes de la Ciudad de Buenos Aires        #
 # - Unifica columnas: estacion, pago, categoría, fecha, sentido, hora          #
 # - Genera archivo procesado y reporte detallado de consolidación              #
+#                                                                              #
+# El archivo consolidado.csv ya procesado se puede descargar desde             #
+# drive.google.com/file/d/1JDmYJhxR9AnTN6nN6q3W_pxGHHHDBfbN/view?usp=sharing   #
 ################################################################################
 
 # ──────────────────────────────────────────────────────────────────────────────

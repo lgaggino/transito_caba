@@ -2,6 +2,14 @@ Tránsito CABA
 
 Dashboard Shiny para visualizar el flujo vehicular en los peajes de la Ciudad Autónoma de Buenos Aires (CABA).
 https://lgaggino.shinyapps.io/transito_caba/
+Pasos para la ejecución del procesamiento de datos
+   a) Descargar el proyecto
+   b) Descomprimir en /raw los .rar para obtener todas las bases crudas
+   c) Ejecutar 0_eda_raw.R para obtener el reporte .txt de las bases crudas en /output
+   d) Ejecutar 1_consolidate.R para generar el .csv consolidado en /input
+   e) Ejecutar 2_etl.R para producir consolidado_processed, categoria_por_dia, estaciones, evolucion_pago, hora_pico_sentido y transito_por_estacion en /input
+   f) (Opcional) Ejecutar 2_etl_eda para visualizar en consola la calidad de la información consolidada
+   g) Ejecutar 3_app para desplegar localmente la aplicación Shinny para la visualización de los datos
 
 1. EDA de datos crudos (raw/)
 
@@ -17,7 +25,7 @@ Detección de inconsistencias de tipo.
 Conteo de valores faltantes.
 Generación de eda_raw.txt en output/ con el resumen completo.
 
-3. Consolidación inicial (input/)
+2. Consolidación inicial (input/)
 
 Script: scripts/1_consolidate.R
 
@@ -32,7 +40,7 @@ fecha: fecha corregida según formato año:
 sentido: registros de 2016–2024; rellena con s/d para años anteriores.
 hora: diversas columnas según año (HORA, hora, hora_inicio, Hora.HH).
 
-4. ETL y preprocesamiento (input/)
+3. ETL y preprocesamiento (input/)
 
 Script: scripts/2_etl.R
 
@@ -64,4 +72,3 @@ Flujo vehicular por hora: mapa interactivo con burbujas escaladas.
 Categorías vehiculares por día: gráfico de burbujas (circle packing).
 Tránsito por estación: barras anuales filtrables.
 Modalidad de pago: streamgraph o línea según filtro.
-

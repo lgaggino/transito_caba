@@ -1,0 +1,17 @@
+Estructura de directorios
+transito-caba/
+├── raw/                    # Archivos CSV originales descargados de open data (flujo vehicular)
+├── www/                    # Recursos estáticos (CSS, favicon)
+│   └── styles.css          # Estilos personalizados de la aplicación
+├── input/                  # Archivos intermedios generados (consolidado, procesados, pre-agregados)
+├── output/                 # Salidas de reportes y logs (EDA, etc.)
+├── scripts/                # Scripts de procesamiento, EDA y aplicación
+│   ├── 0_eda_raw.R         # EDA de los datos crudos (inventario, columnas, missing)
+│   ├── 1_consolidate.R     # Generación de `consolidado.csv` unificando años/formatos
+│   ├── 2_etl.R             # ETL: saneamiento, limpieza y enriquecimiento con geolocalización
+│   ├── 2_etl_eda.R         # EDA sobre el consolidado procesado (validación de esquema y datos)
+│   ├── 3_app.R             # Inicializa ShinyApp (ui + server)
+│   ├── 4_global.R          # Carga de datos pre-agregados y funciones auxiliares
+│   ├── 5_server.R          # Lógica `server` de la aplicación
+│   └── 6_ui.R              # Definición de la interfaz `ui`
+└── README.md               # Documentación del proyecto

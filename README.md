@@ -1,6 +1,7 @@
 Tránsito CABA
 
 Dashboard Shiny para visualizar el flujo vehicular en los peajes de la Ciudad Autónoma de Buenos Aires (CABA).
+https://lgaggino.shinyapps.io/transito_caba/
 
 1. EDA de datos crudos (raw/)
 
